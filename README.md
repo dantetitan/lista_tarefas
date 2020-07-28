@@ -1,6 +1,8 @@
 # tarefas
 
-A new Flutter application.
+A list of tasks in Flutter where we can mark tasks as completed or not completed, remove tasks and sort them.
+
+The application uses Json files to locally save tasks that have already been created.
 
 ## Getting Started
 
